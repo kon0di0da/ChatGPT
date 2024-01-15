@@ -1,6 +1,6 @@
 # 基础镜像
-#FROM openjdk:8-jre-slim
-FROM openjdk:17-jre-slim
+FROM openjdk:8-jre-slim
+#FROM openjdk:17
 # 作者
 MAINTAINER sunyu
 # 配置
